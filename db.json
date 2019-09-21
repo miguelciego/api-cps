@@ -1,20 +1,20 @@
 {
-  "menus": [
+  menus": [
     {
-      "menu": "Fichaje",
-      "muenu_url": "http://cps.cpsnada.local"
+      "nombre": "Fichaje",
+      "url": "http://cps.cpsnada.local"
     },
     {
-      "menu": "Afiliacion",
-      "muenu_url": "http://cps.cpsnada.local"
+      "nombre": "Afiliacion",
+      "url": "http://cps.cpsnada.local"
     },
     {
-      "menu": "Contabilidad",
-      "muenu_url": "http://cps.cpsnada.local"
+      "nombre": "Contabilidad",
+      "url": "http://cps.cpsnada.local"
     },
     {
-      "menu": "Sistemas",
-      "muenu_url": "http://cps.cpsnada.local"
+      "nombre": "Sistemas",
+      "url": "http://cps.cpsnada.local"
     }    
   ],
   "profile": {
