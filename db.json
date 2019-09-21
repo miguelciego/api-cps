@@ -1,9 +1,21 @@
 {
-  "posts": [
+  "menus": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+      "menu": "Fichaje",
+      "muenu_url": "http://cps.cpsnada.local"
+    },
+    {
+      "menu": "Afiliacion",
+      "muenu_url": "http://cps.cpsnada.local"
+    },
+    {
+      "menu": "Contabilidad",
+      "muenu_url": "http://cps.cpsnada.local"
+    },
+    {
+      "menu": "Sistemas",
+      "muenu_url": "http://cps.cpsnada.local"
+    }    
   ],
   "profile": {
     "name": "typicode"
