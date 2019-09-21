@@ -15,7 +15,15 @@
     {
       "nombre": "Sistemas",
       "url": "http://cps.cpsnada.local"
-    }    
+    },
+    {
+      "nombre": "Rayos X",
+      "url": "http://cps.cpsnada.local"
+    },
+    {
+      "nombre": "Nuevo",
+      "url": "http://cps.cpsnada.local"
+    }
   ],
   "profile": {
     "name": "typicode"
