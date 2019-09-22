@@ -1,29 +1,48 @@
 {
   "menus": [
     {
+      "id": "1",
       "nombre": "Fichaje",
-      "url": "/menu"
+      "url": "/menu",
+      "api":"url_api"
     },
     {
+      "id": "2",
       "nombre": "Afiliacion",
-      "url": "/menu"
+      "url": "/menu",
+      "api":"url_api"
     },
     {
+      "id": "3",
       "nombre": "Contabilidad",
-      "url": "/menu2"
+      "url": "/menu2",
+      "api":"url_api"
     },
     {
+      "id": "4",
       "nombre": "Sistemas",
-      "url": "/menu3"
+      "url": "/menu3",
+      "api":"url_api"
     },
     {
+      "id": "5",
       "nombre": "Rayos X",
-      "url": "/menu3"
+      "url": "/menu3",
+      "api":"url_api"
     },
     {
+      "id": "6",
       "nombre": "Nuevo",
-      "url": "/menu"
+      "url": "/menu",
+      "api":"url_api"
+    },
+    {
+      "id": "7",
+      "nombre": "este",
+      "url": "/menu",
+      "api":"url_api"
     }
+    
   ],
   "profile": {
     "name": "typicode"
