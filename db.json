@@ -1,49 +1,42 @@
 {
   "menus": [
-    {
-      "id": "1",
-      "nombre": "Fichaje",
-      "url": "/menu",
-      "api":"url_api"
-    },
-    {
-      "id": "2",
-      "nombre": "Afiliacion",
-      "url": "/menu",
-      "api":"url_api"
-    },
-    {
-      "id": "3",
-      "nombre": "Contabilidad",
-      "url": "/menu2",
-      "api":"url_api"
-    },
-    {
-      "id": "4",
-      "nombre": "Sistemas",
-      "url": "/menu3",
-      "api":"url_api"
-    },
-    {
-      "id": "5",
-      "nombre": "Rayos X",
-      "url": "/menu3",
-      "api":"url_api"
-    },
-    {
-      "id": "6",
-      "nombre": "Nuevo",
-      "url": "/menu",
-      "api":"url_api"
-    },
-    {
-      "id": "7",
-      "nombre": "este",
-      "url": "/menu",
-      "api":"url_api"
-    }
-    
-  ],
+  {
+    "id": 1,
+    "title": "sistema",
+    "url": "/list",
+    "api": "https://jsonplaceholder.typicode.com/albums"
+  },
+  {
+    "id": 2,
+    "title": "rrhh",
+    "url": "/cards",
+    "api": "https://jsonplaceholder.typicode.com/albums"
+  },
+  {
+    "id": 3,
+    "title": "contabilidad",
+    "url": "/tables",
+    "api": "https://jsonplaceholder.typicode.com/albums"
+  },
+  {
+    "id": 4,
+    "title": "administracion",
+    "url": "/list",
+    "api": "https://jsonplaceholder.typicode.com/albums"
+  },
+  {
+    "id": 5,
+    "title": "control de empresas",
+    "url": "/cards",
+    "api": "https://jsonplaceholder.typicode.com/posts"
+  },
+  {
+    "id": 6,
+    "title": "almacen",
+    "url": "/tables",
+    "api": "https://jsonplaceholder.typicode.com/albums"
+  }
+],
   "profile": {
     "name": "typicode"
   }
