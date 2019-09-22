@@ -2,27 +2,27 @@
   "menus": [
     {
       "nombre": "Fichaje",
-      "url": "http://cps.cpsnada.local"
+      "url": "/menu"
     },
     {
       "nombre": "Afiliacion",
-      "url": "http://cps.cpsnada.local"
+      "url": "/menu"
     },
     {
       "nombre": "Contabilidad",
-      "url": "http://cps.cpsnada.local"
+      "url": "/menu2"
     },
     {
       "nombre": "Sistemas",
-      "url": "http://cps.cpsnada.local"
+      "url": "/menu3"
     },
     {
       "nombre": "Rayos X",
-      "url": "http://cps.cpsnada.local"
+      "url": "/menu3"
     },
     {
       "nombre": "Nuevo",
-      "url": "http://cps.cpsnada.local"
+      "url": "/menu"
     }
   ],
   "profile": {
